@@ -5,10 +5,12 @@ O sistema foi desenvolvido através do Visual Studio utilizando a linguagem de p
 
 Para funcionar é necessario:
 
-1- Baixar o MySQL e o XAMPP, nele iniciar o Apache e MySQL.
+1- Baixar o Visual Studio Community e instalar o "Desenvolvimento para desktop com .NET"
 
-2- Exportar o arquivo .sql no banco de dados
+2- Baixar o MySQL e o XAMPP, nele iniciar o Apache e MySQL.
 
-3- Alterar o acesso.txt de acordo.
+3- Exportar o arquivo .sql no banco de dados
 
-4- No código conexaoMySQL.cs, linha 26, é necessário alterar o caminho do arquivo acesso.txt
+4- Alterar o acesso.txt de acordo.
+
+5- No código conexaoMySQL.cs, linha 26, é necessário alterar o caminho do arquivo acesso.txt
