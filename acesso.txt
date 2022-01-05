@@ -1,0 +1,4 @@
+servidor=localhost
+database=trabalhoprogramacao
+usuario=root
+senha=
